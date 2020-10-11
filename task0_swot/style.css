@@ -18,6 +18,14 @@ font-family: 'Anton', sans-serif;
 	
 	
 }
+h3{
+	font-size: 3em!important;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	margin-top: 5%;
+}
 h1 span, h2 span{
 	color: #EF7B45;
 }
@@ -117,6 +125,54 @@ position: absolute;
 }
 
 
+.strenghts-grid{
+	display: grid;
+	grid-template-columns: 32% 32% 32%;
+	grid-template-rows: 300px;
+	grid-gap: 2%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}
+.strenghts-grid h3{
+	top: 70%;
+	position: relative;
+	transform: translateY(-50%);
+	color: white;
+	
+}
+
+.strenghts-grid a{
+	color: white;
+	font-family: 'Anton', sans-serif;	
+	font-size: 1em;
+}
+.foto{
+	
+		background-image:  linear-gradient(to bottom, rgba(0,0,0,.4) 0%, rgba(0,0,0,.4) 100%), url("foto-bild.jpg");
+	
+  background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.webdev{
+	background-image:  linear-gradient(to bottom, rgba(0,0,0,.4) 0%, rgba(0,0,0,.4) 100%), url("funnyfit_webentwicklung.jpg");
+	
+  background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.social-media{
+	background-image:  linear-gradient(to bottom, rgba(255,255,255,.2) 0%, rgba(255,255,255,.2) 100%), url("sm-bild.jpg");
+	
+  background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
 
 @media (max-width: 1024px){
 	
@@ -143,6 +199,10 @@ position: absolute;
 		color: white;
 	}
 }
+
+
+
+
 
 
 @media (max-width: 968px){
