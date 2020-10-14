@@ -37,6 +37,9 @@ p, a{
 	text-decoration: none;
 	
 }
+p{
+	text-align: center;
+}
 .vertical-center {
   margin: 0;
   position: absolute;
@@ -123,28 +126,36 @@ position: absolute;
 	
 	color: #EF7B45;
 }
-
+.text{
+	width: 50%;
+	left: 50%;
+	position: relative;
+	transform: translate(-50%);
+}
 
 .strenghts-grid{
 	display: grid;
 	grid-template-columns: 32% 32% 32%;
-	grid-template-rows: 300px;
+	grid-template-rows: 400px;
 	grid-gap: 2%;
 	margin-top: 5%;
-	margin-bottom: 10%;
+	margin-bottom: 3%;
 	padding-left: 2%;
 	padding-right: 2%;
 	
 }
-.strenghts-grid h3{
+.unterpunkte h3{
 	top: 70%;
 	position: relative;
 	transform: translateY(-50%);
 	color: white;
 	
 }
+.unterpunkte a:hover{
+	color: #EF7B45;
+}
 
-.strenghts-grid a{
+.unterpunkte a{
 	color: white;
 	font-family: 'Anton', sans-serif;	
 	font-size: 1em;
@@ -174,6 +185,58 @@ position: absolute;
 }
 
 
+.weakness-grid{
+	display: grid;
+	grid-template-columns: 49% 49%;
+	grid-template-rows: 400px;
+	grid-gap: 2%;
+	margin-top: 5%;
+	margin-bottom: 2%;
+	padding-left: 15%;
+	padding-right: 15%;
+	
+}
+.weakness a{
+	
+}
+
+.zeichnen{
+	background-image:  linear-gradient(to bottom, rgba(0,0,0,.4) 0%, rgba(0,0,0,.4) 100%), url("zeichnen.gif");
+	
+  background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.kunst{
+	background-image:  linear-gradient(to bottom, rgba(0,0,0,.4) 0%, rgba(0,0,0,.4) 100%), url("kunst.gif");
+	
+  background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.chance{
+	background-image: url("chance.gif");
+	
+  background-repeat: no-repeat;
+	background-size: contain;
+	
+}
+
+.risk{
+	background-image: url("risk.gif");
+	
+  background-repeat: no-repeat;
+	background-size: contain;
+	
+}
+.chancen p, .risiko p{
+	position: relative;
+	top: 40%;
+	transform: translate(0, -50%);
+	transform-origin: center;
+}
 @media (max-width: 1024px){
 	
 	.hero{
