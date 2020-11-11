@@ -8,7 +8,7 @@ Quelle: https://acuvate.com/blog/the-amazing-benefits-of-voice-enabled-business-
 ### Im folgenden Flow Chart wird die Unterhaltung mit einem Studierenen und dem VUI des Intranets dargestellt
 
 <a href="../task4_Intranet_VUI/Flow_Chart_Lukas_Lehmann.pdf" target=_blank> Zum Flow Chart </a></br>
-<a href="https://xd.adobe.com/view/dd04eff2-0c98-4952-927b-443a813c544b-8857/" target=_blank> Prototype Voice User Interface </a> (Mikrofon, Desktop Browser und Adobe Account erforderlich)
+<a href="https://xd.adobe.com/view/53e5278e-5ba4-4bdf-8eef-0e18bc398e0c-06b6/?fullscreen" target=_blank> Prototype Voice User Interface </a> (Mikrofon, Desktop Browser und Adobe Account erforderlich)
 
 ### Allgemein
 Das Flow Chart besteht aus zwei möglichen Szenarien, zum einen Fragt der Student welche Veranstaltungen heute anstehen, eine weitere Frage nach neuen Nachrichten liegt nahe, da immer mal eine Veranstaltung ausfallen kann. Das weitere Szenario ist, dass der Studierende nach der nächsten Abgabe fragt. Ich persönlich komme oft durcheinander in welchem Fach welche Abgaben anstehen. Daher finde ich das sehr nützlich. 
