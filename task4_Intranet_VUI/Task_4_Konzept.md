@@ -8,4 +8,4 @@ Quelle: https://acuvate.com/blog/the-amazing-benefits-of-voice-enabled-business-
 ### Im folgenden Flow Chart wird die Unterhaltung mit einem Studierenen und dem VUI des Intranets dargestellt
 
 <a href="../task4_Intranet_VUI/Flow_Chart_Lukas_Lehmann.pdf" target=_blank> Zum Flow Chart </a></br>
-<a href="https://xd.adobe.com/view/dd04eff2-0c98-4952-927b-443a813c544b-8857/" target=_blank> Zum Voice User Interface </a> (Mikrofon, Desktop Browser und Adobe Account erforderlich)
+<a href="https://xd.adobe.com/view/dd04eff2-0c98-4952-927b-443a813c544b-8857/" target=_blank> Prototype Voice User Interface </a> (Mikrofon, Desktop Browser und Adobe Account erforderlich)
