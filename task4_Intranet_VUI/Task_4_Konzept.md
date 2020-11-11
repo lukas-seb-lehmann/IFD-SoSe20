@@ -7,4 +7,4 @@ Quelle: https://acuvate.com/blog/the-amazing-benefits-of-voice-enabled-business-
 
 ### Im folgenden Flow Chart wird die Unterhaltung mit einem Studierenen und dem VUI des Intranets dargestellt
 
-<a href="../Flow_Chart_Lukas_Lehmann.pdf" target=_blank> zum PDF </a>
+<a href="../task4_Intranet_VUI/Flow_Chart_Lukas_Lehmann.pdf" target=_blank> zum PDF </a>
